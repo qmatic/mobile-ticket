@@ -29,7 +29,7 @@
     "imagemin-optipng": "^5.2.1",
     "ng2-bootstrap": "^1.1.16",
     "ng2-translate": "^5.0.0",
-    "ws": "^1.1.1"
+    "ws": "^7.2.0"
   },
   "devDependencies": {
     "@angular/cli": "1.7.3",
